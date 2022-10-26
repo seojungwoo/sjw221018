@@ -12,4 +12,5 @@ public class MemberVO implements Serializable{
 		this.id = id;
 	}
     //2
+	//b
 }
