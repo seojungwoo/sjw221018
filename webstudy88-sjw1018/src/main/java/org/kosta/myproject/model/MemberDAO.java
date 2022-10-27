@@ -8,4 +8,5 @@ public class MemberDAO {
 	public void deleteList() {}
 	public void deleteFile() {}
 	public void deleteByNo() {}
+	public void deleteByNo2() {}
 }
