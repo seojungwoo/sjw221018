@@ -22,4 +22,5 @@ public class MemberVO implements Serializable{
 
 	//b
 
+	//a
 }
