@@ -5,4 +5,5 @@ public class MemberDAO {
 	public void list() {}
 	public void update() {}
 	public void find() {}
+	public void deleteFile() {}
 }
