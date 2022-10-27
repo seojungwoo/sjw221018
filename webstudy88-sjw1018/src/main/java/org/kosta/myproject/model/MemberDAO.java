@@ -7,4 +7,5 @@ public class MemberDAO {
 	public void find() {}
 	public void deleteList() {}
 	public void deleteFile() {}
+	public void deleteFile2() {}
 }
